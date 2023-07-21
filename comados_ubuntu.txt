@@ -1,0 +1,44 @@
+Comando basicos de ubuntu:
+ls: Listar archivos y directorios en el directorio actual. Muestra una lista de nombres de archivos y directorios.
+
+cd: Cambiar de directorio. Permite moverse entre directorios dentro del sistema de archivos.
+
+pwd: Mostrar el directorio de trabajo actual. Muestra la ruta completa del directorio en el que te encuentras.
+
+mkdir: Crear un directorio. Permite crear un nuevo directorio en el directorio actual.
+
+rmdir: Eliminar un directorio vacío. Borra un directorio vacío (debe estar vacío para poder ser eliminado).
+
+rm: Eliminar archivos o directorios. Se utiliza para borrar archivos o directorios. Utiliza con precaución, ya que los datos eliminados no se pueden recuperar fácilmente.
+
+cp: Copiar archivos y directorios. Permite copiar archivos o directorios de una ubicación a otra.
+
+mv: Mover o renombrar archivos y directorios. Se utiliza para mover archivos/directorios de una ubicación a otra o para cambiar su nombre.
+
+touch: Crear un archivo vacío o actualizar su marca de tiempo. Crea un archivo vacío o actualiza su marca de tiempo a la hora actual.
+
+cat: Concatenar y mostrar el contenido de un archivo. Muestra el contenido de un archivo en la terminal.
+
+echo: Imprimir un mensaje en la terminal. Muestra un mensaje en la salida estándar.
+
+man: Mostrar el manual del comando. Proporciona información detallada sobre el uso de un comando específico.
+
+chmod: Cambiar permisos de archivos y directorios. Permite modificar los permisos de lectura, escritura y ejecución de archivos y directorios.
+
+chown: Cambiar el propietario de archivos y directorios. Permite cambiar el propietario de un archivo o directorio.
+
+ps: Mostrar los procesos en ejecución. Muestra una lista de los procesos en ejecución en el sistema.
+
+Comandos básicos de Git Bash:
+
+git init: Iniciar un nuevo repositorio Git. Crea un nuevo repositorio Git en el directorio actual.
+
+git clone: Clonar un repositorio Git. Descarga una copia completa de un repositorio desde un servidor remoto.
+
+git add: Agregar cambios al área de preparación (staging). Prepara los cambios realizados en los archivos para ser incluidos en el próximo commit.
+
+git commit: Confirmar los cambios en el repositorio. Crea un nuevo commit con los cambios preparados en el área de preparación.
+
+git status: Mostrar el estado del repositorio. Muestra el estado actual del repositorio, incluyendo los cambios realizados y los archivos que están en el área de preparación.
+
+git push: Enviar cambios a un repositorio remoto. Sube los cambios confirmados a un repositorio remoto.
